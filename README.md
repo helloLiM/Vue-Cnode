@@ -3,15 +3,10 @@
 #### 项目模块的组件有：
 
 Header模块
-
 PostList模块
-
 Article模块
-
 Slider侧边栏模块
-
 UserInfo用户个人中心模块
-
 Pagination分页组件的开发
 
 #### 主要用到的技术栈有：
